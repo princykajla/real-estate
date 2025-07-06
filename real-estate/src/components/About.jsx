@@ -30,8 +30,7 @@ const About = () => {
                     <p>Ongoing Projects</p>
                 </div>
             </div>
-            <p className='my-10 max-w-lg text-justify mx-auto'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque magnam, nihil asperiores ab placeat, 
-            suscipit est earum, in architecto qui neque labore incidunt libero repellat. Autem temporibus dolores quam quidem.</p>
+            <p className='my-10 max-w-lg text-justify mx-auto'>We are committed to transforming dreams into reality by delivering high-quality, affordable, and beautiful homes. With a passion for excellence and a focus on customer satisfaction, we have helped countless families and businesses find their perfect space. Our dedication to innovation, transparency, and integrity sets us apart in the real estate industry, ensuring every project is built to the highest standards and tailored to your needs.</p>
             <div className='flex justify-center w-full'>
               <button className='bg-black text-white px-8 py-2 rounded-md'>Learn more</button>
             </div>
