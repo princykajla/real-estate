@@ -28,13 +28,6 @@ A modern, responsive landing page built with **React**, **Vite**, and **Tailwind
 ├── vite.config.js
 ```
 
-## 📸 Screenshots
-
-<details>
-  <summary>📸 Screenshots (click to expand)</summary>
-</details>
-
-
 ## 🚀 Getting Started
 
 Clone the project and install dependencies:
@@ -44,3 +37,6 @@ git clone https://github.com/princykajla/real-estate.git
 cd real-estat
 npm install
 npm run dev
+```
+
+🖼️Screenshots in the assets folder!
